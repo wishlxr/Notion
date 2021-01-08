@@ -1,4 +1,4 @@
 # Hello there. 
 This is a repository for widgets that I have created for my Notion page! 
-To preview a widget go to https://wishlxr.github.io/notion/<filename> 
+To preview a widget copy and paste this https://wishlxr.github.io/notion/filename and replace filename with the widget filename. 
   
